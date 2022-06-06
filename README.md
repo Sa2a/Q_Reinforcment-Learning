@@ -7,6 +7,8 @@ Each of these programs follow a paradigm of Machine Learning known as Reinforcem
 
 # Install Liberaries:
 * !pip install cmake gym[atari] scipy
+* you will need this gym[toy_text] liberary if you run on your PC instead of colab:<br>
+    !pip install cmake gym[toy_text] scipy
 
 # Functions:
 * # Q RL training:<br>
